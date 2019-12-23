@@ -39,8 +39,9 @@ docker stop *container name or ID*
 ```
 - To list all images
 ```
-docker stop *container name or ID*
+docker images
 ```
+
 
 
 ## PowerShell
@@ -69,3 +70,27 @@ ping *IP address/ URL*
 ```
 ipconfig
 ```
+
+## Bash
+
+- To view which directory you are currently in 
+```
+pwd
+```
+
+- To list the contents of the directory you are currently in
+```
+ls
+```
+
+- To enter the parent directory of the directory you are currently in
+```
+cd ..
+```
+- To create a textfile in the directory you are currently in and open it
+```
+notepad *Textfile Name*
+```
+
+
+
