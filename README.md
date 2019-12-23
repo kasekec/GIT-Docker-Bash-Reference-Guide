@@ -39,8 +39,9 @@ docker stop *container name or ID*
 ```
 - To list all images
 ```
-docker stop *container name or ID*
+docker images
 ```
+
 
 
 ## PowerShell
