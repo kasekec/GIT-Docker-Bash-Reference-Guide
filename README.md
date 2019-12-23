@@ -4,7 +4,7 @@
 ## GIT
 Git is a version control software. It is used to keep track of changes made to a group project. The software can be used to track various files but is most popular in software development
 ![Sample GIT command](http://techgenix.com/tgwordpress/wp-content/uploads/2019/03/1067-02-05.png?ezimgfmt=rs:848x267/rscb1)
-- To copy a repository into the current local directory:
+- To copy a repository into the current local directory
 ```
 git clone *Repository Name*
 ```
@@ -16,7 +16,7 @@ git status
 ```
 git checkout -b *branch name*
 ```
-- To push the commits made on the local directory to the origin repository under the branch specified:
+- To push the commits made on the local directory to the origin repository under the branch specified
 ```
 git push origin *branch name* 
 ```
