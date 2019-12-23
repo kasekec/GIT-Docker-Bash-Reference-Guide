@@ -1,4 +1,5 @@
 # GIT, Docker, PowerShell, and Bash Reference Guide
+ A simple reference guide for GIT, Docker, PowerShell, and Bash commands
 ## GIT
 - To copy a repository into the current local directory:
 ```
@@ -12,7 +13,7 @@ git status
 ```
 git checkout -b *branch name*
 ```
-- : pushes the commits made on the local directory to the origin repository under the branch specified:
+- To push the commits made on the local directory to the origin repository under the branch specified:
 ```
 git push origin *branch name* 
 ```
