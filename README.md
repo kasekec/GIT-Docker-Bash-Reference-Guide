@@ -41,8 +41,10 @@ docker stop *container name or ID*
 ```
 docker images
 ```
-
-
+- To pull an image from docker hub
+```
+docker pull *user/image*
+```
 
 ## PowerShell
 - To view which version of Windows you are running
