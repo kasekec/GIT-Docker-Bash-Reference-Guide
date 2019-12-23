@@ -1,6 +1,8 @@
 # GIT, Docker, PowerShell, and Bash Reference Guide
- A simple reference guide for GIT, Docker, PowerShell, and Bash commands
+ A simple reference guide for GIT, Docker, PowerShell, and Bash commands.
+
 ## GIT
+Git is a version control software. It is used to keep track of changes made to a group project. The software can be used to track various files but is most popular in software development
 - To copy a repository into the current local directory:
 ```
 git clone *Repository Name*
@@ -23,6 +25,7 @@ git log --oneline
 ```
 
 ## Docker
+Docker is an application used to create and maintain containers. It uses OS level virtualiztion to containerize applications. Unlike hypervisors, docker containers only consume the system resources that are needed by a container.
 - To list all containers that are currently running
 ```
 docker ps
@@ -47,6 +50,7 @@ docker pull *user/image*
 ```
 
 ## PowerShell
+PowerShell is a task automation and configuration management framework craeted by Microsoft.
 - To view which version of Windows you are running
 ```
 winver
@@ -74,7 +78,7 @@ ipconfig
 ```
 
 ## Bash
-
+Bash is a Unix shell and command language created for the GNU operating system
 - To view which directory you are currently in 
 ```
 pwd
