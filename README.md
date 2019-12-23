@@ -38,3 +38,34 @@ docker start *container name or ID*
 docker stop *container name or ID*
 ```
 - To list all images
+```
+docker stop *container name or ID*
+```
+
+
+## PowerShell
+- To view which version of Windows you are running
+```
+winver
+```
+- To show the current date and time
+```
+Get-Date
+```
+- To show the only the current time
+```
+Get-Date -DisplayHint Time
+```
+- To view which directory you are currently in 
+```
+Get-Location
+```
+Powershell also supports legacy CLI commands. A few of them are listed below
+- To check the availability of an ip address
+```
+ping *IP address/ URL*
+```
+- To view your current IP address
+```
+ipconfig
+```
